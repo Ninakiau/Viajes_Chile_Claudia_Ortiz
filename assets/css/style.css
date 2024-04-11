@@ -1,0 +1,57 @@
+/* fas fa-mountain
+fas fa-route
+"fas fa-plane" */
+
+body{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: "Raleway", sans-serif; /* Google Font Raleway se utiliza para el body de esta página */
+    color: #FFFFFF; /* Color del texto de la página */
+}
+
+.custom-navbar{
+    color: #FFFFFF;
+}
+#navigation img{
+    width: 5vh; /* Tamaño de la imagen del logo de la barra de navegación */
+
+}
+#navigation a{
+    font-size: small;
+    color: #FFFFFF;
+}
+#hero-section .container-fluid{
+    width: 100%;
+}
+#about-us{
+    background-color: #000000;
+}
+.custom-card{
+    background-color: #20dbe9;
+    color: #FFFFFF;
+}
+
+.card img{
+    overflow: hidden;
+    width: 100%;
+    height: 25vh;
+}
+
+#destacados{
+    background-color: #000000;
+}
+#contact{
+    background-color: #000000
+}
+#contact h5, span {
+    color: #FFFFFF;
+}
+#contact .btn{
+    color: #FFFFFF;
+    
+}
+footer{
+    background-color: #20dbe9; /* Color de fondo del footer */
+    color: #FFFFFF; /* Color del texto del footer */
+}
