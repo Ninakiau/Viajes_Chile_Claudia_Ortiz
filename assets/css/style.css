@@ -62,3 +62,8 @@ footer{
     background-color: #20dbe9; /* Color de fondo del footer */
     color: #FFFFFF; /* Color del texto del footer */
 }
+
+footer a{
+    color: #FFFFFF; /* Color de los links del footer */
+    text-decoration: none;
+}
